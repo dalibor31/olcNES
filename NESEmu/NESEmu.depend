@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1663411927 source:d:\repo\olcnes\nesemu\mapper.cpp
+	"Mapper.h"
+
+1663411927 d:\repo\olcnes\nesemu\mapper.h
+	<cstdint>
+
+1663411927 source:d:\repo\olcnes\nesemu\mapper_000.cpp
+	"Mapper_000.h"
+
+1663411927 d:\repo\olcnes\nesemu\mapper_000.h
+	"Mapper.h"
+
+1663411927 source:d:\repo\olcnes\nesemu\mapper_001.cpp
+	"Mapper_001.h"
+
+1663411927 d:\repo\olcnes\nesemu\mapper_001.h
+	"Mapper.h"
+	<vector>
+
+1663411927 source:d:\repo\olcnes\nesemu\mapper_002.cpp
+	"Mapper_002.h"
+
+1663411927 d:\repo\olcnes\nesemu\mapper_002.h
+	"Mapper.h"
+
